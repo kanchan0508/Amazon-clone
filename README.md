@@ -85,11 +85,7 @@ export default App;
 This will make moduleA.js and all its unique dependencies as a separate chunk that only loads after the user clicks the 'Load' button. For more information on the chunks that are created, see the production build section.
 
 You can also use it with async / await syntax if you prefer it.
-
-With React Router
-If you are using React Router check out this tutorial
-
-Also check out the Code Splitting section in React documentation.
+For in details you can go here-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
 
