@@ -104,3 +104,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Here are some UI page Screenshots-
+![signin](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/b54ffaf8-7cf5-4775-9249-fda7eb878be1)
+![cart](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/0b07fb25-c316-4c0c-88c6-d366b87184d2)
+![sign in page](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/8abda575-39c7-4540-99a2-4aa039515ae8)
+![home](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/b094d0b4-4bef-4e55-9909-cc7da3f0e88c)
+![amazon](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/294a5603-d104-46bc-b500-2c64f628249b)
+![signup](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/315ac84f-7dfd-442
+![cart1](https://github.com/kanchan0508/Amazon-using-mern-stack/assets/105898854/e0583c63-34e2-44ad-8efd-c7e5692e691c)
+f-9282-7359013141f2)
+
